@@ -1,0 +1,23 @@
+ {
+    "name": "ASG Post",
+    "short_name": "ASG Post",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgIhfuvGKpur2hygYRuBCWXLuVrVqVxJDwAqNeVJv1OgUVlUKGlaWZsypRbuTWpa3WM977Dg1zCxyvZmhsabJVhwUw7kiaRgxxegHEPT4B8RVWZSnGBM6LpB11Wckw6GoT6YQlmAJBsCxvOSxI0E1yjWzf_xr8qiGIMQ_qn0VqlYSjzfgYoK4GaAhln",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgOEByJNx62uaBtKByXF7LtIRc0MvAsx25MgeKo97ojc_e2YZoj7F-Ps9gjZjlreiWBIdWJaGMuwAD9jQKBo2fDJdKmsyzKkiXSBZqBDIjY3v8DqTdnRjIJCONtgyiN5zcSyj2uBqNhFWl3LIPVIEqgfurcTsOsJiOAYZfPXsFCR215kwE9aun4Dh2G",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.asgpost.site"
+}
